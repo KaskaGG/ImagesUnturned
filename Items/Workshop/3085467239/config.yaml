@@ -1,3 +1,0 @@
-# Use this in your UnturnedImages/config.yaml file
-- Id: "10806-10808;10875-10877" # The ID of the override.
-  Repository: "https://cdn.jsdelivr.net/gh/SilKsPlugins/UnturnedIcons@images/modded/3085467239/items/{ItemId}.png" # The repository of the override.
